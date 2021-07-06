@@ -1,0 +1,2 @@
+# Learning Rust
+Decided to work through the [Rust documentation](https://doc.rust-lang.org/book/)/book and complete the tasks within it, publishing them here. I'll likely go back to each task and improve its functionality as I work through the documentation itself.
